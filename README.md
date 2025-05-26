@@ -1,3 +1,7 @@
+<h1>CurCalc</h1>
+Exchange rate calculator :) Frontend made with vue.js, backend made with nodejs. Features a secure login system, and the ability to alter database data to your liking with an easy to use frontend menu, that handles potential user errors and misuse.
+
+
 <h2>Setting up</h2>
 
   Fontend uses Vue3 with Vue CLI and Axios
