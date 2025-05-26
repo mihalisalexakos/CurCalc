@@ -1,5 +1,5 @@
 <h1>CurCalc</h1>
-Exchange rate calculator :) Frontend made with vue.js, backend made with nodejs. Features a secure login system, and the ability to alter database data to your liking with an easy to use frontend menu, that handles potential user errors and misuse.
+Exchange rate calculator :) Frontend made with vue.js, backend made with node.js. Features a secure login system, and the ability to alter database data to your liking with an easy to use frontend menu, that handles potential user errors and misuse.
 
 
 <h2>Setting up</h2>
@@ -63,13 +63,13 @@ Exchange rate calculator :) Frontend made with vue.js, backend made with nodejs.
     <h3>CurrencyConverter.vue</h3>
       Combines and styles all components above.
       Fetches data from backend and updates values for components above(Available
-      currencies, exchange rate etc)
-      Prevents potential user input errors:
-      - Inserting invalid numbers (0 <) or characters as monetary value,
+      currencies, exchange rate etc)<br>
+      Prevents potential user input errors:<br>
+      - Inserting invalid numbers (0 <) or characters as monetary value,<br>
       - Attempting invalid conversions for currencies that do not have exchange
-      rates for each other
-      - Trying to convert with some elements being null
-      - Trying to convert when there are no exchange rates stored in the database
+      rates for each other<br>
+      - Trying to convert with some elements being null<br>
+      - Trying to convert when there are no exchange rates stored in the database<br>
     <h3>LoginForm.vue</h3>
       Handles client-side login logic.
       For this assignment I used sessionStorage to temporarily store and share the
