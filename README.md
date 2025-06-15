@@ -27,7 +27,7 @@ It lets users log in, look up real-time exchange rates stored in a simple JSON �
 ---
 
 ## Directory structure
-
+```text
 .
 ├── currency-calculator-backend
 │   ├── app.js
@@ -71,7 +71,7 @@ It lets users log in, look up real-time exchange rates stored in a simple JSON �
 ├── documentation
 │   └── CurCalc.pdf
 └── readme.txt
-
+```
 ## Prerequisites
 
 | Tool | Version (or newer) |
