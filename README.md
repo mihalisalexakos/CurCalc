@@ -4,6 +4,10 @@ CurCalc is a full-stack currency-conversion tool built with **Vue 3** on the fro
 It lets users log in, look up real-time exchange rates stored in a simple JSON “database,” and perform safe, two-way currency conversions.
 
 ---
+<img width="250" alt="Screenshot 2025-06-16 at 16 43 34" src="https://github.com/user-attachments/assets/d7fa7b4e-b160-4561-8667-b34da35203aa" />
+<img width="500" alt="Screenshot 2025-06-16 at 16 43 46" src="https://github.com/user-attachments/assets/e0c75687-1ee7-43f5-b106-2dd6d286532e" />
+
+
 
 ## Features
 
